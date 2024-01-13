@@ -6,5 +6,8 @@ public class first {
 		// TODO Auto-generated method stub
        System.out.println("Hello world");
 	}
-
+    void display() {
+    	System.out.println("Hello Branch");
+    	
+    }
 }
